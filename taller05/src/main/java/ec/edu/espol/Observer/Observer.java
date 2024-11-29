@@ -8,6 +8,7 @@ package ec.edu.espol.Observer;
  *
  * @author Leo
  */
-public class Observer {
+public interface Observer {
+    public void actualizar(Tarea tarea);
     
 }
