@@ -16,4 +16,4 @@ public interface TareaManager {
     void sucribirse(Observer observer);
     void desucribirse(Observer observer);
     void visualizarTareas(Visualizacion visualizacion);
-} 
+}
